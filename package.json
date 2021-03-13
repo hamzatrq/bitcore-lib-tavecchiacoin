@@ -1,6 +1,6 @@
 {
   "name": "bitcore-lib-tavecchiacoin",
-  "version": "8.25.7",
+  "version": "8.25.8",
   "description": "A pure and powerful JavaScript Tavecchiacoin library.",
   "author": "Tavecchiacoin <hamzatrq116@gmail.com>",
   "main": "index.js",
